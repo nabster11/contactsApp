@@ -1,5 +1,8 @@
-# Contacts App (https://stark-refuge-37192.herokuapp.com/)
+# Contacts App 
 Contacts CRUD API. Node.js, Express, Sequelize, Postgresql, Mysql
+
+### Where is it hosted
+https://stark-refuge-37192.herokuapp.com/
 
 ### What platform I chose and why I chose it
 

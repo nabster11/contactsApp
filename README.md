@@ -39,4 +39,5 @@ Contacts CRUD API. Node.js, Express, Sequelize, Postgresql, Mysql
 6. Run automated tests : 
    ``` npm run test ```
 
-7. Manual testing with Postman - the following URL has a collection of endpoint calls:
+7. Manual testing with Postman - the following URL has a collection of endpoint calls:-
+https://www.getpostman.com/collections/4d13547f2f175f8ccd33

@@ -1,4 +1,4 @@
-# Contacts
+# Contacts App
 Contacts CRUD API. Node.js, Express, Sequelize, Postgresql, Mysql
 
 ### What platform I chose and why I chose it
@@ -28,7 +28,7 @@ Contacts CRUD API. Node.js, Express, Sequelize, Postgresql, Mysql
 4. Clone git repository
    mkdir contactsApp
    cd contactsApp
-   git clone 
+   git clone https://github.com/nabster11/contactsApp
    npm install
 
 5. Run server:- npm start

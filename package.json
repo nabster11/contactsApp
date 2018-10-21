@@ -1,0 +1,28 @@
+{
+  "name": "contactapp",
+  "main": "server.js",
+  "dependencies": {
+    "basic-auth": "^2.0.1",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mysql2": "^1.6.1",
+    "pg": "^7.5.0",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^4.41.0",
+    "sequelize-cli": "^5.2.0"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "mocha"
+  },
+  "version": "0.0.1",
+  "description": "Contacts app with crud api",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "chai-http": "^1.0.0",
+    "expect.js": "~0.3.1",
+    "mocha": "~2.3.2"
+  },
+  "author": "Divyesh Purohit",
+  "license": "BSD-2-Clause"
+}

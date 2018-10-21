@@ -59,6 +59,3 @@ If you wish to do the manual testing, you can do so by importing this Postman co
 
 6. Run automated tests : 
    ``` npm run test ```
-
-7. Manual testing with Postman - the following URL has a collection of endpoint calls:-
-https://www.getpostman.com/collections/4d13547f2f175f8ccd33

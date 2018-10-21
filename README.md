@@ -11,8 +11,12 @@ https://stark-refuge-37192.herokuapp.com/
 * MySQL:- I choose this for local develpoment.
 * Sequelize:- As it provides the most flexibility when it comes to dealing with SQL.
 
-### Features
+### Manual Testing
+Download the postman app (https://www.getpostman.com/apps)
 
+If you wish to do the manual testing, you can do so by importing this Postman collection:- https://www.getpostman.com/collections/4d13547f2f175f8ccd33
+
+### Features
 * Very simple database model
 * API routes to CRUD operations
   * Adding a new contact:

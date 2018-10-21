@@ -11,13 +11,26 @@ https://stark-refuge-37192.herokuapp.com/
 * MySQL:- I choose this for local develpoment.
 * Sequelize:- As it provides the most flexibility when it comes to dealing with SQL.
 
-### What features I completed
+### Features
 
 * Very simple database model
 * API routes to CRUD operations
+  * Adding a new contact:
+    ```POST /api/contacts```
+  * Deleting a new contact:
+     ```DELETE /api/contact/<id>```
+  * Updating an existing contact:
+    ```PUT /api/contacts/<id>```
+  * Get a contact by id:
+    ```GET /api/contacts/<id>```
+
+* Searching a contact by fullname / email        
+    ```GET /api/contacts?fullname=test test```
+
+    ```GET /api/contacts?email=test@test.com```
+* Paginated api to fetch atmost 10 contacts at a time : ```GET /api/contacts/page/<page-number>```
 * Unit tests for each route
 * Authentication - basic auth added
-* Paginated api to fetch atmost 10 contacts at a time.
 
 ### Setup for local
 

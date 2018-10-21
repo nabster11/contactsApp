@@ -32,7 +32,7 @@ var env = process.env.NODE_ENV || "development";
 var sequelize =
   env === "production"
     ? new Sequelize(
-        "postgres://ojjvishziibmyw:d501777962634ad26acdbdddfad833eadac87d416a60c72528bacc90ba65f541@ec2-50-17-225-140.compute-1.amazonaws.com:5432/dbb49pmv0cs0ij"
+        "your-production-postgresql url"
       )
     : new Sequelize("mysql://root:root@localhost:3306/contacts");
 

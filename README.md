@@ -8,6 +8,7 @@ https://stark-refuge-37192.herokuapp.com/
 
 * Node.js / Express :- I'm interested in learning it at the moment.
 * PostgreSQL:- I believe that if the schema is known from the beginning, a nicely structured SQL is in most cases a better choice than NoSQL.
+* MySQL:- I choose this for local develpoment.
 * Sequelize:- As it provides the most flexibility when it comes to dealing with SQL.
 
 ### What features I completed
